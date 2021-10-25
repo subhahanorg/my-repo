@@ -3,3 +3,4 @@ echo "today date is :" `date`
 3rd line added in master branch
 4th line addded in master branch
 4th line added in dev branch
+5th line added in dev branch
