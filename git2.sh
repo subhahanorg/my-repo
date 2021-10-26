@@ -5,3 +5,4 @@ echo "today date is :" `date`
 4th line added in dev branch
 5th line added in dev branch
 6th line is added in dev
+7th line added
